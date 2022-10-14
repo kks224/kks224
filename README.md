@@ -29,7 +29,7 @@ Hobbies: ["Gaming", "Cinema", "Singing", "Art", "Design", "Fashion"]
 <h2> 🚀 &nbsp;Some Tools I Have Experience In </h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="45" height="45"/>
           
 
 </p>
