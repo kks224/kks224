@@ -10,5 +10,19 @@ Current Jobs:
 -Resident Assisant
 Education: 
 [In Process of obtaining a Bachelors In Computer Science and Engr]
-company: Humanity Wealth Advisors
+Company: Humanity Wealth Advisors
+
+fields_of_interests:
+  [
+    "Web Development",
+    "AI",
+    "Machine Learning",
+    "UI/UX",
+    "Cloud Computing",
+    "CS Ethics"
+  ]
+  
+Currently_Learning: ["Flutter, SwiftUI"]
+2022 Goals: ["Create 20+ Projects and learn at least 2 new Technologies."]
+Hobbies: ["Gaming", "Cinema", "Singing", "Art", "Design", "Fashion"]
 ```
