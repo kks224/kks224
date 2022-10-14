@@ -6,11 +6,10 @@
 Name: Kunj Shah
 Located In: Bethlehem, PA
 Current Jobs: 
--Director of Creative Adminstration
+-Director of Creative Adminstration, Company: Humanity Wealth Advisors
 -Resident Assisant
 Education: 
 [In Process of obtaining a Bachelors In Computer Science and Engr]
-Company: Humanity Wealth Advisors
 
 fields_of_interests:
   [
