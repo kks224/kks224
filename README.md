@@ -8,5 +8,7 @@ Located In: Bethlehem, PA
 Current Jobs: 
 -Director of Creative Adminstration
 -Resident Assisant
-Education: In Process of obtaining a Bachelors In Computer Science and Engr
+Education: 
+[In Process of obtaining a Bachelors In Computer Science and Engr]
+company: Humanity Wealth Advisors
 ```
