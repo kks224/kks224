@@ -17,6 +17,7 @@ fields_of_interests:
     "AI",
     "Machine Learning",
     "UI/UX",
+    "Cyber Security",
     "Cloud Computing",
     "CS Ethics"
   ]
