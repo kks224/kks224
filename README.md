@@ -22,7 +22,7 @@ fields_of_interests:
     "CS Ethics"
   ]
   
-Currently_Learning: ["Flutter, SwiftUI"]
+Currently_Learning: ["SwiftUI"]
 Currently Working On: ["A finance/budgeting app"]
 2022 Goals: ["Create 20+ Projects and learn at least 2 new Technologies."]
 Hobbies: ["Gaming", "Cinema", "Singing", "Art", "Design", "Fashion"]
