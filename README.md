@@ -24,7 +24,7 @@ fields_of_interests:
   
 Currently_Learning: ["SwiftUI"]
 Currently Working On: ["A finance/budgeting app"]
-2022 Goals: ["Create 5+ Projects and learn at least 2 new Technologies."]
+2023 Goals: ["Create 5+ Projects and learn at least 2 new Technologies."]
 Hobbies: ["Gaming", "Cinema", "Singing", "Art", "Design", "Fashion"]
 ```
 <h2> 🚀 &nbsp;Some Tools I Have Experience In </h2>
