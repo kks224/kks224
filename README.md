@@ -6,6 +6,7 @@
 Name: Kunj Shah
 Located In: Bethlehem, PA
 Current Jobs: 
+-Technical Project Manager Intern at Knowt
 -Director of Creative Adminstration at Humanity Wealth Advisors
 -Resident Assistant at Lehigh University
 Education: 
