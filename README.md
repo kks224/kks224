@@ -29,7 +29,13 @@ Currently Working On: ["A finance/budgeting app"]
 2023 Goals: ["Create 5+ Projects and learn at least 2 new Technologies."]
 Hobbies: ["Gaming", "VR/AI", "Cinema", "Singing", "Art", "Design", "Fashion"]
 
-Courses I am Taking Now: ["Web Systems Programming", "Computer Arch", "Capstone 1", "Programming Languages", "SwiftUI Codepath Course"]
+Courses I am Taking Now: [
+"Web Systems Programming", 
+"Computer Arch", 
+"Capstone 1", 
+"Programming Languages", 
+"SwiftUI Codepath Course"
+]
 
 
 ```
