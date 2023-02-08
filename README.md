@@ -30,13 +30,13 @@ Currently Working On: ["A finance/budgeting app"]
 Hobbies: ["Gaming", "VR/AI", "Cinema", "Singing", "Art", "Design", "Fashion"]
 
 Courses I am Taking Now: 
-[
-"Web Systems Programming", 
-"Computer Arch", 
-"Capstone 1", 
-"Programming Languages", 
-"SwiftUI Codepath Course"
-]
+  [
+    "Web Systems Programming", 
+    "Computer Arch", 
+    "Capstone 1", 
+    "Programming Languages", 
+    "SwiftUI Codepath Course"
+  ]
 
 
 ```
