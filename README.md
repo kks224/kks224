@@ -38,7 +38,7 @@ Courses I am Taking Now:
     "SwiftUI Codepath Course"
   ]
   
-  Courses I Have Taken: 
+  Relevant CS Courses I Have Taken: 
   [
     "Introduction to Engineering",
     "Introduction to Programming",
@@ -48,6 +48,7 @@ Courses I am Taking Now:
     "Computers, Internet & Society", 
     "Foundations of Discrete Structures & Algorithms", 
     "Design & Analysis Of Algorithms",
+    "Fundamentals Of Internetworking",
   ]
 
 
