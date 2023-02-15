@@ -9,6 +9,7 @@ Current Jobs:
 -Technical Project Manager Intern at Knowt
 -Director of Creative Adminstration at Humanity Wealth Advisors
 -Resident Assistant at Lehigh University
+Summer 2023 Plans: Incoming Support Engineer Intern at Atlassian 
 Education: 
 [In Process of obtaining a Bachelors In Computer Science and Engr from Lehigh University, Class of 2024]
 
