@@ -14,7 +14,7 @@ Education:
 
 fields_of_interests:
   [
-    "Web Development",
+    "Technical Writing",
     "IOS Dev",
     "AI",
     "Machine Learning",
@@ -25,17 +25,29 @@ fields_of_interests:
   ]
   
 Currently_Learning: ["SwiftUI"]
-Currently Working On: ["A finance/budgeting app"]
+Currently Working On: ["Lutron Data Project- Capstone"]
 2023 Goals: ["Create 5+ Projects and learn at least 2 new Technologies."]
 Hobbies: ["Gaming", "VR/AI", "Cinema", "Singing", "Art", "Design", "Fashion"]
 
 Courses I am Taking Now: 
   [
     "Web Systems Programming", 
-    "Computer Arch", 
-    "Capstone 1", 
+    "Comp Organization Architecture", 
+    "Capstone 1- Data project with Lutron", 
     "Programming Languages", 
     "SwiftUI Codepath Course"
+  ]
+  
+  Courses I Have Taken: 
+  [
+    "Introduction to Engineering",
+    "Introduction to Programming",
+    "Data Structures and Algorithms", 
+    "Systems Software", 
+    "Software Engineering",
+    "Computers, Internet & Society", 
+    "Foundations of Discrete Structures & Algorithms", 
+    "Design & Analysis Of Algorithms",
   ]
 
 
