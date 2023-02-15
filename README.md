@@ -33,7 +33,7 @@ Hobbies: ["Gaming", "VR/AI", "Cinema", "Singing", "Art", "Design", "Fashion"]
 Courses I am Taking Now: 
   [
     "Web Systems Programming", 
-    "Comp Organization Architecture", 
+    "Computer Organization Architecture", 
     "Capstone 1- Data project with Lutron", 
     "Programming Languages", 
     "SwiftUI Codepath Course"
