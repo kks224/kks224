@@ -36,7 +36,7 @@ Courses I am Taking Now:
     "Computer Organization Architecture", 
     "Capstone 1- Data project with Lutron", 
     "Programming Languages", 
-    "SwiftUI Codepath Course"
+    "IOS102 Codepath Course"
   ]
   
   Relevant CS Courses I Have Taken: 
