@@ -7,7 +7,6 @@ Name: Kunj Shah
 Located In: Bethlehem, PA
 Current Jobs: 
 -Technical Project Manager Intern at Knowt
--Director of Creative Adminstration at Humanity Wealth Advisors
 -Resident Assistant at Lehigh University
 Summer 2023 Plans: Incoming Support Engineer Intern at Atlassian 
 Education: 
@@ -16,7 +15,7 @@ Education:
 fields_of_interests:
   [
     "Technical Writing",
-    "IOS Dev",
+    "Technical Project Management",
     "AI",
     "Machine Learning",
     "UI/UX",
