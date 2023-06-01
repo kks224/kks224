@@ -6,7 +6,7 @@
 Name: Kunj Shah
 Located In: Bethlehem, PA
 Current Jobs: 
--Technical Project Manager Intern at Knowt
+-Technical CAST support engineer at Atlassian
 -Resident Assistant at Lehigh University
 Summer 2023 Plans: Incoming Support Engineer Intern at Atlassian 
 Education: 
