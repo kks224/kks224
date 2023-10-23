@@ -14,8 +14,8 @@ Education:
 
 fields_of_interests:
   [
-    "**Technical Writing**",
-    "**Technical Project Management**",
+    "Technical Writing",
+    "Technical Project Management",
     "AI",
     "Machine Learning",
     "UI/UX",
