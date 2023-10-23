@@ -6,17 +6,16 @@
 Name: Kunj Shah
 Located In: Bethlehem, PA
 Current Jobs: 
--Technical CAST support engineer at Atlassian
--Rising Leader Intern at RTC
+-Hardware and Robotics Student Leader Intern at RTC
 -Resident Assistant at Lehigh University
-Summer 2023 Plans: Incoming Support Engineer Intern at Atlassian 
+
 Education: 
 [In Process of obtaining a Bachelors In Computer Science and Engr from Lehigh University, Class of 2024]
 
 fields_of_interests:
   [
-    "Technical Writing",
-    "Technical Project Management",
+    "**Technical Writing**",
+    "**Technical Project Management**",
     "AI",
     "Machine Learning",
     "UI/UX",
@@ -26,17 +25,15 @@ fields_of_interests:
   ]
   
 Currently_Learning: ["SwiftUI"]
-Currently Working On: ["Lutron Data Project- Capstone"]
-2023 Goals: ["Create 5+ Projects and learn at least 2 new Technologies."]
+Currently Working On: ["Lutron Lighting Control Data Project- Capstone Project"]
+
 Hobbies: ["Gaming", "VR/AI", "Cinema", "Singing", "Art", "Design", "Fashion"]
 
 Courses I am Taking Now: 
   [
-    "Web Systems Programming", 
-    "Computer Organization Architecture", 
-    "Capstone 1- Data project with Lutron", 
-    "Programming Languages", 
-    "IOS102 Codepath Course"
+    "Operating Systems", 
+    "Compiler Design"
+    
   ]
   
   Relevant CS Courses I Have Taken: 
@@ -50,6 +47,10 @@ Courses I am Taking Now:
     "Foundations of Discrete Structures & Algorithms", 
     "Design & Analysis Of Algorithms",
     "Fundamentals Of Internetworking",
+    "Web Systems Programming", 
+    "Computer Organization Architecture", 
+    "Capstone 1- Data project with Lutron", 
+    "Programming Languages"
   ]
 
 
