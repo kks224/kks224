@@ -1,5 +1,5 @@
 ### Hi there 👋
-### My Name is Kunj and I'm an aspiring software engineer that tries to challenge myself constantly. You can contact me at kks224@lehigh.edu 📧
+### My Name is Kunj and I'm an aspiring product/project manager that tries to challenge myself constantly. You can contact me at kks224@lehigh.edu 📧
 
 
 ```yaml
@@ -31,8 +31,8 @@ Hobbies: ["Gaming", "VR/AI", "Cinema", "Singing", "Art", "Design", "Fashion"]
 
 Courses I am Taking Now: 
   [
-    "Operating Systems", 
-    "Compiler Design"
+    "AI Game Programming", 
+    "Intro to AI"
     
   ]
   
@@ -49,7 +49,9 @@ Courses I am Taking Now:
     "Fundamentals Of Internetworking",
     "Web Systems Programming", 
     "Computer Organization Architecture", 
-    "Capstone 1- Data project with Lutron", 
+    "Capstone 1- Data project with Lutron",
+    "Operating Systems",
+    "Compiler Design"
     "Programming Languages"
   ]
 
