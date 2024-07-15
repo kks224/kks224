@@ -1,4 +1,4 @@
-### Hi there 👋
+### HELLO!! :) 
 ### My Name is Kunj and I'm an aspiring product/project manager that tries to challenge myself constantly. You can contact me at kks224@lehigh.edu 📧
 
 
