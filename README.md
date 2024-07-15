@@ -1,6 +1,5 @@
 ### HELLO!! :) 
-### My Name is Kunj and I'm an aspiring product/project manager that tries to challenge myself constantly. You can contact me at kks224@lehigh.edu 📧
-
+### Hi, I'm Kunj! I'm an aspiring product/project manager who loves to challenge myself. Feel free to contact me at k1bellport23@gmail.com 📧
 
 ```yaml
 Name: Kunj Shah
