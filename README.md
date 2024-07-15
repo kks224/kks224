@@ -4,13 +4,12 @@
 
 ```yaml
 Name: Kunj Shah
-Located In: Bethlehem, PA
+Located In: Patchogue, NY
 Current Jobs: 
--Hardware and Robotics Student Leader Intern at RTC
--Resident Assistant at Lehigh University
+- I'm a new grad seeking a full time opportunity in TPM, PM, Support Engineering, or IT
 
 Education: 
-[In Process of obtaining a Bachelors In Computer Science and Engr from Lehigh University, Class of 2024]
+- Bachelors In Computer Science and Engineering from Lehigh University, Class of May 2024
 
 fields_of_interests:
   [
