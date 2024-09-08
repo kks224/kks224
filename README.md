@@ -23,7 +23,7 @@ fields_of_interests:
   ]
   
 Currently_Learning: ["SwiftUI"]
-Currently Working On: ["Lutron Lighting Control Data Project- Capstone Project"]
+Currently Working On: ["ML Project w/Python :) "]
 
 Hobbies: ["Gaming", "VR/AI", "Cinema", "Singing", "Art", "Design", "Fashion"]
 
